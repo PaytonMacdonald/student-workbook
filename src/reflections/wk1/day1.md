@@ -15,3 +15,17 @@ It's important to understand because development can be tested, experiemented, a
 
 3. What is the difference between Git and GitHub
 
+
+
+## Links
+<!--some comment-->
+[link-text](https://google.com)
+
+## Images
+![alt-text-here](https://placehold.it/200x200)
+
+## font-styling
+*italics*
+**bold**
+***bold italic***
+_strike_

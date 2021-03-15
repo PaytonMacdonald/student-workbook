@@ -38,25 +38,28 @@ cascading style sheets
 ```
 <!-- enter you answer in the space below -->
 ```
-
+selector {property:value;}
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+"weight:" probably, either that or "font-style:"
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+I assume it's the main document tag like: 
+<html></html> buuuut what about other documents like css or js?
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+unordered list: <ul></ul>
+ordered list: <ol></ol>
+description list: <dl></dl>
 ```
 
 **10.** Define the display `:flex property:`
