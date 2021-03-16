@@ -65,11 +65,17 @@ description list: <dl></dl>
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
+a *flex* property is a property used for sizing that can adapt to different aspect ratios depending on what is provided.
 
+It will take up the determined space on a PC and shrink down to a mobile format.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+width (is there a height though?)
+border
+padding
+margin
+the overall content inside
 ```
