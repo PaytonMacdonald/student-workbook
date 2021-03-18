@@ -1,0 +1,49 @@
+.background{
+    background-color: #212121;
+    margin: auto;
+    height: 20rem;
+    width: 10rem;
+}
+
+.pole{
+    background-color: #383e3a;
+    margin: auto;
+    height: 2rem;
+    width: 1rem;
+}
+
+.box{
+    background-color: #303532;
+    margin: auto;
+    height: 8rem;
+    width: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+
+.light{
+    margin: auto;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+}
+
+.red{
+    background-image: url(assets\pattern-26432_1280.png;);
+    background-color: #e77b79;
+}
+.red:hover{
+    background-color: darkred;
+    box-shadow: 0 0 0.1em 0.1em pink;
+    cursor: pointer;
+}
+
+.yellow{
+    background-color: #ede475;
+}
+
+.green{
+    background-color: #83ef7f;
+}
