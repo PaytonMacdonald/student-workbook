@@ -33,4 +33,4 @@ If they don't stay, or they don't understand what they need to do... then as a d
 
 ## Links
 <!--some comment-->
-[link-text](https://google.com)
+[link-text](https://paytonmacdonald.github.io/day3cloneSite/)

@@ -20,4 +20,4 @@ Specificity is a heirarchy within CSS code. When two rules slam into each other,
 
 ## Links
 <!--some comment-->
-[link-text](https://google.com)
+[link-text](https://paytonmacdonald.github.io/day2afternoonPage/)

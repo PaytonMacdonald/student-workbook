@@ -22,4 +22,4 @@ It also speeds up development time significantly. Because every decision for the
 
 ## Links
 <!--some comment-->
-[link-text](https://google.com)
+[link-text](https://paytonmacdonald.github.io/day4JohnDeereCloneSiteGroup/)
