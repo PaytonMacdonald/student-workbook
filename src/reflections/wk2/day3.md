@@ -1,4 +1,4 @@
-# Day 3 - Cheating at Design
+# Day 3 -
 
 ## Daily Journal - Cheating at Design
 ***because I guess that's okay***
@@ -28,9 +28,3 @@ A good powerful design *keeps* people. A poor design or worse, any design that c
 A good design also *guides* people. Using the right colors and the right fonts pulls the eyes where they need to go. It controls the thoughts to wear they need to be. Distractions in poor design can easily confuse any user. Including myself.
 
 If they don't stay, or they don't understand what they need to do... then as a designer I failed.
-
----------------------------------------------------
-
-## Links
-<!--some comment-->
-[link-text](https://google.com)

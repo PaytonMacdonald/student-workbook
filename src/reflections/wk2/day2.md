@@ -16,8 +16,4 @@ Specificity is a heirarchy within CSS code. When two rules slam into each other,
 
 3. What problems do you think you could run into if you over-utilized the !important feature?
 
----------------------------------------------------
-
-## Links
-<!--some comment-->
-[link-text](https://google.com)
+you will quickly
