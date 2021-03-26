@@ -1,30 +1,22 @@
-# Day 3 -
+# Day 3 - INTERACTING WITH THE DOM AND EVENTS
 
-## Daily Journal - Cheating at Design
-***because I guess that's okay***
 
-Read Building Blocks Of Web Development > Cheating At Design and answer the following questions
+## Daily Journal 
+***Read Intro to JS > Chrome Developer Tools and answer the following questions***
 
-1. What is your favorite tip that you think is the most beneficial to improving your design?
+1. What are the main ways to write information to the console? Why/when should you use each style.
 
-despite having a design background, and have created multiple layouts with font and colors... I really liked quite a few of these.
+With the inspect tool you can test and write multiple custom tests and proccesses before actually editing the entire document.
 
-My favorite tip was the very first about not making fonts bigger, because i've done that... as well as making them heavier or lighter...
+2. Which tab allows you to see the breakdown of HTML/CSS and how can this tab be useful when debugging HTML?
 
-In other words: I am not going to mess with font ***size*** as much as I normally do.
+is this talking about the actual inspect tool? or one of the tabs *in* the inspect tool? if it's the latter I assume we're talking about the **elements** tab
 
-2. Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
+3. Outside of writing everything to the console, what is a better way to debug your code?
 
-I now use Pantone's vast color library for all my color choices. I've decided not to pick my own colors anymore because Pantones are perfected colors that have all the information they need.
+probably by using the debugger function or by manualing clicking through each line via the inspect tool
 
-I'm going to also ingrain myself with font awesome as my default icon choice. I prefer to make my own icons but now I understand that my time can be better utilized... CODES GOTTA GET DONE
 
-3. How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
-
-Design is like a personality. A good first impression is warming and welcome. Too much personality will scare a user away, and not enough will leave them staring not wanting anything but instead moving on to the next page.
-
-A good powerful design *keeps* people. A poor design or worse, any design that contains red flags like notifications, pop-ups, or anything users always hate, will turn them away.
-
-A good design also *guides* people. Using the right colors and the right fonts pulls the eyes where they need to go. It controls the thoughts to wear they need to be. Distractions in poor design can easily confuse any user. Including myself.
-
-If they don't stay, or they don't understand what they need to do... then as a designer I failed.
+## Links
+<!--some comment-->
+[link-text](https://paytonmacdonald.github.io/day3-rock-paper-scissors/)

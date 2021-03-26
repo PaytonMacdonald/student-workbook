@@ -34,4 +34,4 @@ they help make loops or specific tasks much easier... i've been calling them met
 
 ## Links
 <!--some comment-->
-[link-text](link goes here)
+[link-text](https://paytonmacdonald.github.io/day2-jsChallenge2/)

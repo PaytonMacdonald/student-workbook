@@ -17,3 +17,9 @@ Builds and lays out the heirarchy of a page. basically making a blue-print for t
 Planning is everything. The better the plan, the better a developler can accomplish the big three goals: 1. make it work, 2. make it better 3. make it faster
 
 It also speeds up development time significantly. Because every decision for the page has already been decided and the work is to fill in the blanks of the wireframe.
+
+
+
+## Links
+<!--some comment-->
+[link-text](https://paytonmacdonald.github.io/day4-slap-game/)
