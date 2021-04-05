@@ -18,4 +18,4 @@ they sort of replace lines upon lines of code and make the automation of moving 
 
 ## Links
 <!--some comment-->
-[link-text](place link here)
+[link-text](https://paytonmacdonald.github.io/day-3-afternoon-gregslist/.)

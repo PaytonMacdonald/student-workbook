@@ -15,5 +15,5 @@ subscribe, unsubscribe, and broadcast
 from what I understand the observer is that ProxyState function. it overlooks all the data we write and allows it to maneauver around file to file of the MVC in so many ways. Currently I still really is magic because there is a lot of in between that i don't understand at the moment.
 
 ## Links
-<!--some comment-->
-[link-text](place link here)
+<!--GROUP PROJECT WITH JARED-->
+[link-text](https://github.com/JaredVandeWater/storefront)
